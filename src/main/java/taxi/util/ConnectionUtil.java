@@ -7,9 +7,10 @@ import java.util.Properties;
 
 public class ConnectionUtil {
     private static final String URL
-            = "jdbc:mysql://localhost:3306/taxi_services?serverTimezone=UTC";
-    private static final String USERNAME = "root";
-    private static final String PASSWORD = "Galuba1234567890";
+            = "jdbc:mysql://ufk7fr6gbzstiers:SiJmhOS2hMsOBGgZnLnT@bvnsidttphwyvd2qjpnh-mysql."
+            + "services.clever-cloud.com:3306/bvnsidttphwyvd2qjpnh?serverTimezone=UTC";
+    private static final String USERNAME = "ufk7fr6gbzstiers";
+    private static final String PASSWORD = "SiJmhOS2hMsOBGgZnLnT";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
