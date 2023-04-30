@@ -13,7 +13,7 @@ This project is an imitation of a taxi service. It uses Java Servlets and SQL.
 
 ## Deployment
 
-This project has been deployed on AWS. You can find it here: http://test-env.eba-nmvysrs7.eu-north-1.elasticbeanstalk.com/
+This project has been deployed on AWS. You can find it here: http://taxi-cervice.eu-north-1.elasticbeanstalk.com/
 
 ## Getting Started
 
